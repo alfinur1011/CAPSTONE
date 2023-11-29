@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login strings -->
+
+	<string name="app_name">Capstone</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="login_string">Login</string>
+	<string name="email_string">Email</string>
+	<string name="segera_lihat_resep_makananmu_hari_ini__let_s_go_healthly_string">Segera lihat resep makananmu hari ini, Lets Go Healthly</string>
+	<string name="enter_your_account_string">Enter your account</string>
+	<string name="_not_have_an_account___click_here_string">Not have an account ? Click Here</string>
+	<string name="password_string">Password</string>
+</resources>
